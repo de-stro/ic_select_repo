@@ -401,6 +401,6 @@ FodyWeavers.xsd
 
 *.pyc
 .vscode
-.venv
+env/
 __pycache__
 test.py
