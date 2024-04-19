@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+######## My Own Stuff: #################
+
+*.pyc
+.vscode
+.venv
+__pycache__
+test.py
